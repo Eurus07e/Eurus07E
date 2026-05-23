@@ -1,16 +1,42 @@
-## Hi there 👋
+# Eurus / 束宇轩
 
-<!--
-**Eurus07e/Eurus07E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student at Nanjing University, majoring in Intelligent Science and Technology.
 
-Here are some ideas to get you started:
+I am interested in artificial intelligence, game agents, algorithmic problem solving, and the design of reliable software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+My current learning focuses on:
+
+- C / C++ / Python programming
+- Object-oriented design and C++ project development
+- Data structures and algorithms
+- Linear algebra, matrix computation, and optimization
+- Artificial intelligence fundamentals
+- Search, planning, and intelligent agents
+- Game systems and interactive simulations
+
+## Featured Project
+
+### Synera: Synergy Auto-Arena
+
+A lightweight PvE auto-battler game developed with C++ and Qt.
+
+This project was built as a programming assignment and focuses on object-oriented design, including:
+
+- A unified `Unit` model for both player and enemy units
+- Inheritance and polymorphic hero skills
+- Preparation, combat, and settlement phase loop
+- Grid-based board and bench system
+- Automatic target selection, BFS pathfinding, attack, mana, and skill logic
+- Shop, economy, population, synergy, star-upgrade, equipment, and save/load related systems
+
+Repository: [Synera: Synergy Auto-Arena](https://github.com/Eurus07e/Synera-Synergy-Auto-Arena)
+
+## Tech Stack
+
+`C` `C++` `Python` `Qt` `CMake` `Git` `GitHub` `CLion` `VS Code`
+
+## Notes
+
+I am still at an early stage of system-level development, but I try to make every project an opportunity to understand the underlying design rather than only completing the surface functionality.
