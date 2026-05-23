@@ -1,6 +1,6 @@
-# Eurus / 束宇轩
+# Eurus
 
-Undergraduate student at Nanjing University, majoring in Intelligent Science and Technology.
+I am a undergraduate student at Nanjing University, majoring in Intelligent Science and Technology.
 
 I am interested in artificial intelligence, game agents, algorithmic problem solving, and the design of reliable software systems.
 
