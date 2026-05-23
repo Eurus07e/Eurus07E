@@ -36,7 +36,3 @@ Repository: [Synera: Synergy Auto-Arena](https://github.com/Eurus07e/Synera-Syne
 ## Tech Stack
 
 `C` `C++` `Python` `Qt` `CMake` `Git` `GitHub` `CLion` `VS Code`
-
-## Notes
-
-I am still at an early stage of system-level development, but I try to make every project an opportunity to understand the underlying design rather than only completing the surface functionality.
