@@ -48,7 +48,7 @@ This project is lightweight, dependency-free, and can run directly in the browse
 
 Repository: [Keep Run Screenshot Generator](https://github.com/Eurus07e/keep-run-generator)
 
-Use: [Keep Run Screenshot Generator](https://eurus07e.github.io/keep-run-generator/)
+Use: [Try Keep Run Screenshot Generator Here](https://eurus07e.github.io/keep-run-generator/)
 
 ## Tech Stack
 
