@@ -1,0 +1,41 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090A12"/>
+      <stop offset="0.55" stop-color="#101222"/>
+      <stop offset="1" stop-color="#07080D"/>
+    </linearGradient>
+    <linearGradient id="prism" x1="675" y1="-30" x2="1070" y2="345" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8C95FF" stop-opacity="0.05"/>
+      <stop offset="0.34" stop-color="#AEB5FF" stop-opacity="0.62"/>
+      <stop offset="0.68" stop-color="#D5A8FF" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#72E1D1" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="pillar" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#9DA6FF" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#A8B1FF" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#E9ADFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="11" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="158" y="-90" width="86" height="500" rx="43" transform="rotate(14 158 -90)" fill="url(#pillar)" filter="url(#blur)" opacity="0.68"/>
+  <path d="M760 -58L1090 126L854 385L622 171L760 -58Z" fill="url(#prism)" opacity="0.72" filter="url(#glow)"/>
+  <path d="M760 -58L854 385L622 171L760 -58Z" fill="#8E96FF" fill-opacity="0.09"/>
+  <path d="M760 -58L1090 126L854 385L760 -58Z" fill="#F0B4FF" fill-opacity="0.08"/>
+  <path d="M760 -58L1090 126L854 385L622 171L760 -58Z" stroke="#E7E9FF" stroke-opacity="0.18"/>
+  <circle cx="1080" cy="70" r="130" fill="#74DFC8" fill-opacity="0.06" filter="url(#blur)"/>
+
+  <text x="72" y="137" fill="#F5F7FF" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="5">EURUS</text>
+  <text x="75" y="184" fill="#B9BDCB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="1">Intelligent Science and Technology</text>
+  <text x="75" y="224" fill="#7F8495" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="0.6">AI · GAME AGENTS · ALGORITHMS · INTERACTIVE SYSTEMS</text>
+  <rect x="75" y="257" width="56" height="3" rx="1.5" fill="#ADB4FF"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" stroke="white" stroke-opacity="0.11"/>
+</svg>
