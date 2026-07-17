@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="./assets/prism-header.svg" width="100%" alt="Eurus — Intelligent Science and Technology" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:07080D,45:343A70,75:74539A,100:163A3A&text=EURUS&fontColor=F5F7FF&fontSize=54&fontAlignY=42&desc=Intelligent%20Science%20and%20Technology&descAlignY=68&descSize=17" width="100%" alt="Eurus — Intelligent Science and Technology" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Eurus07e"><img src="./assets/button-github.svg" height="42" alt="GitHub Profile" /></a>
-  &nbsp;
-  <a href="https://github.com/Eurus07e/Synera-Synergy-Auto-Arena"><img src="./assets/button-synera.svg" height="42" alt="View Synera" /></a>
-  &nbsp;
-  <a href="https://eurus07e.github.io/keep-run-generator/"><img src="./assets/button-keep-run.svg" height="42" alt="Try Keep Run" /></a>
+  <a href="https://github.com/Eurus07e"><img src="https://img.shields.io/badge/GitHub_Profile-161925?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+  <a href="https://github.com/Eurus07e/Synera-Synergy-Auto-Arena"><img src="https://img.shields.io/badge/View_Synera-30365F?style=for-the-badge&logo=cplusplus&logoColor=white" alt="View Synera" /></a>
+  <a href="https://eurus07e.github.io/keep-run-generator/"><img src="https://img.shields.io/badge/Try_Keep_Run-245451?style=for-the-badge&logo=javascript&logoColor=white" alt="Try Keep Run" /></a>
 </p>
 
 ## About
